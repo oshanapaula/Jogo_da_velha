@@ -10,7 +10,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(lightblue, pink, purple);
+  background: linear-gradient(lightblue, pink, rgb(163, 123, 163));
 }
 
 main {
@@ -41,5 +41,5 @@ hr {
   margin: 5px;
   cursor: pointer;
   font-size: 50px;
-  background: pink;
+  background: white;
 }
